@@ -1,0 +1,39 @@
+body {background-color: #1c2637;
+		text-align: center
+		}
+		
+section {text-align: center;
+		}
+
+.img {margin: 4px;
+    	padding: 4px;
+    	height: auto;
+    	width: auto;
+    	float: left;
+    	margin-left: 50px;
+    	margin-top: 50px;
+    	text-align: center;}
+
+.img img {
+    display: inline;
+    margin: 5px;
+    border: 1px solid #373a4e;
+}
+
+.img a:hover img {
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+    
+}
+
+.desc {
+    text-align: left;
+    font-weight: normal;
+    font-family: helvetica;
+    font-size: 10pt;
+    color: #a6a8aa;
+    width: 400px;
+    margin: 5px;
+    }
+
+
