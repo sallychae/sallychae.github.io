@@ -1,0 +1,34 @@
+* {
+  font-family: verdana;
+  }
+
+body  {
+  margin: auto;
+  text-align: center;
+  }
+
+section {
+  margin: auto;
+  }
+
+
+a:link {
+  color: gray;
+  text-decoration: none;
+  }
+
+a:hover {
+  color: red;
+  text-decoration: none;
+  }
+
+a:visited {
+  color: gray;
+  text-decoration: none;
+  }
+
+#banner {
+  text-align: center;
+  font-size: 8pt;
+  margin: auto;
+  }
