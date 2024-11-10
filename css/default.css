@@ -26,13 +26,13 @@ a:active {
   text-decoration: none;
   }
 
-a:visited {
-  color: gray;
+a:hover, a:active  {
+  color: red;
   text-decoration: none;
   }
 
-a:hover, a:active  {
-  color: red;
+a:visited {
+  color: gray;
   text-decoration: none;
   }
 
