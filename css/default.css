@@ -36,4 +36,10 @@ a:visited:hover {
     font-size: 8pt;
     letter-spacing: .65px;
     margin: auto;
+    border-bottom: 2px solid beige;
+    padding: 5px;
     }
+
+#banner{
+    margin: auto;
+}
