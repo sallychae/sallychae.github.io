@@ -1,43 +1,39 @@
 * {
-  font-family: verdana;
-  }
+    font-family: verdana;
+    }
 
 body  {
-  margin: auto;
-  text-align: center;
-  }
+    margin: auto;
+    text-align: center;
+    }
 
 section {
-  margin: auto;
-  }
+    margin: auto;
+    }
 
 a:link {
-  color: gray;
-  text-decoration: none;
-  }
+    color: gray;
+    text-decoration: none;
+    }
 
 a:hover {
-  color: red;
-  text-decoration: none;
-  }
-
-a:active {
-  color: black;
-  text-decoration: none;
-  }
-
-a:hover, a:active  {
-  color: red;
-  text-decoration: none;
-  }
+    color: orange;
+    text-decoration: none;
+    }
 
 a:visited {
-  color: gray;
-  text-decoration: none;
-  }
+    color: gray;
+    text-decoration: none;
+    }
 
-#font_banner {
-  text-align: center;
-  font-size: 8pt;
-  margin: auto;
-  }
+a:visited:hover {
+    color: orange;
+    text-decoration: none;
+    }
+
+#navigation {
+    text-align: center;
+    font-size: 8pt;
+    letter-spacing: .65px;
+    margin: auto;
+    }

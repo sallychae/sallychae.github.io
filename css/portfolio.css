@@ -1,27 +1,23 @@
-.img {margin: 4px;
-    	padding: 4px;
-    	height: auto;
-    	width: auto;
-    	float: left;
-    	margin-left: 50px;
-    	margin-top: 50px;
-    	text-align: center;
-		}
+.cont {
+    display: inline-block;
+    margin-top: 4px;
+    padding-bottom: 10px;
+    border: 2px solid beige;
+    }
 
-.img img {
-    display: inline;
-    margin: 5px;
-    border: 1px solid #373a4e;
-		}
-
-.img a:hover img {
-    opacity: 0.4;
-    filter: alpha(opacity=40);
-		}
-
-.description {
+.desc {
     text-align: center;
-    font-style: italic;
     font-size: 8pt;
-    color: gray;
+    color: black;
+    padding-top: 4px;
+    letter-spacing: .62px;
+		}
+
+.cont a:hover {
+    opacity: 0.4;
+		}
+
+.desc:hover {
+    color: orange;
+    text-decoration: none;
 		}
