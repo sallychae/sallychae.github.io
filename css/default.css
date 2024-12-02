@@ -1,16 +1,42 @@
-* {
-    font-family: verdana;
-    }
+* {}/* comment */
 
 body  {
-    margin: auto;
+    font-family: verdana;
     text-align: center;
     }
 
-section {
-    margin: auto;
+nav {
+    font-size: 8pt;
+    letter-spacing: .65px;
+    border-bottom: 2px solid beige;
+    padding: 5px;
     }
 
+article{
+    }
+
+section {
+    }
+
+img{
+    border-radius: 8px;
+    }
+
+p {
+    text-align: left;
+    }
+
+figcaption  {
+    font-size: 6pt;
+    font-style: italic;
+    color: gray;
+    max-width: 250px;
+    padding-top: 0px;
+    line-height: 1.25;
+    text-align: left;
+    }
+
+/* LINKS below */
 a:link {
     color: gray;
     text-decoration: none;
@@ -31,15 +57,91 @@ a:visited:hover {
     text-decoration: none;
     }
 
-#navigation {
-    text-align: center;
-    font-size: 8pt;
-    letter-spacing: .65px;
+#portfolio-front{
+    padding-top: 15px;
+}
+/* abbreviated as "p-f-" below */
+
+#portfolio-ind{
     margin: auto;
-    border-bottom: 2px solid beige;
-    padding: 5px;
+}
+/* abbreviated as "p-i-" below */
+
+#portfolio-i-p-coursedesc{
+    max-width: 110ch;
+    font-size: 8pt;
+    line-height: 2;
+    margin: auto;
+    font-style: italic;
+    color: #D3D3D3;
     }
 
-#banner{
+.portfolio-i-links{
+    max-width: 75ch;
+    font-size: 8pt;
+    line-height: 2.5;
     margin: auto;
+    }
+
+.portfolio-f-thumb{
+    width: 385px;
+    height: auto;
+    }
+
+.portfolio-f-cont{
+    display: inline-block;
+    margin-top: 4px;
+    padding-bottom: 10px;
+    border: 0px solid beige;
+    }
+
+.portfolio-f-cont a:hover {
+    opacity: 0.4;
+		}
+
+.portfolio-f-desc {
+    text-align: center;
+    font-size: 8pt;
+    color: black;
+    padding-top: 4px;
+    letter-spacing: .62px;
+    line-height: 1;
+		}
+
+.portfolio-f-desc:hover {
+    color: orange;
+    text-decoration: none;
+		}
+
+.portfolio-i-thumb{
+    display: inline-block;
+    width: 275px;
+    height: auto;
+    object-fit: cover;
+    }
+
+.portfolio-i-cont{
+    display: inline-block;
+    margin-top: 4px;
+    padding-bottom: 10px;
+    border: 0px solid beige;
+    }
+
+.portfolio-i-cont a:hover {
+    opacity: 0.4;
+		}
+
+.portfolio-i-desc{
+    text-align: center;
+    font-size: 8pt;
+    color: black;
+    padding-top: 4px;
+    letter-spacing: .62px;
+    line-height: 1;
+    }
+
+.favicon{
+    width: 25px;
+    height: 25px;
+    border: 0;
 }
