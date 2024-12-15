@@ -1,29 +1,10 @@
+/* ALL below */
 * {}/* comment */
 
 body  {
     font-family: verdana;
     text-align: center;
-    }
-
-nav {
-    font-size: 8pt;
-    letter-spacing: .65px;
-    border-bottom: 2px solid beige;
-    padding: 5px;
-    }
-
-article{
-    }
-
-section {
-    }
-
-img{
-    border-radius: 8px;
-    }
-
-p {
-    text-align: left;
+    font-size: 10pt;
     }
 
 figcaption  {
@@ -34,6 +15,24 @@ figcaption  {
     padding-top: 0px;
     line-height: 1.25;
     text-align: left;
+    }
+
+img{
+    border-radius: 8px;
+    }
+
+nav {
+    font-size: 8pt;
+    letter-spacing: .65px;
+    border-bottom: 2px solid beige;
+    padding: 5px;
+    }
+
+p {
+    text-align: left;
+    }
+
+section {
     }
 
 /* LINKS below */
@@ -57,23 +56,31 @@ a:visited:hover {
     text-decoration: none;
     }
 
-#portfolio-front{
-    padding-top: 15px;
-}
-/* abbreviated as "p-f-" below */
+/* class='s below */
+.favicon{
+    width: 25px;
+    height: 25px;
+    border: 0;
+    }
 
-#portfolio-ind{
-    margin: auto;
-}
-/* abbreviated as "p-i-" below */
+.googledoc{
+    height: 70vh;
+    width: 70vw;
+    text-align: center;
+    overflow-y: auto;
+    }
 
-#portfolio-i-p-coursedesc{
-    max-width: 110ch;
-    font-size: 8pt;
-    line-height: 2;
-    margin: auto;
-    font-style: italic;
-    color: #D3D3D3;
+.googlesheet{
+    height: 70vh;
+    width: 70vw;
+    text-align: center;
+    }
+
+.googleslide{
+    height: 90vh;
+    width: 70vw;
+    text-align: center;
+
     }
 
 .portfolio-i-links{
@@ -86,6 +93,7 @@ a:visited:hover {
 .portfolio-f-thumb{
     width: 385px;
     height: auto;
+    object-fit: cover;
     }
 
 .portfolio-f-cont{
@@ -116,7 +124,7 @@ a:visited:hover {
 .portfolio-i-thumb{
     display: inline-block;
     width: 275px;
-    height: auto;
+    height: 155px;
     object-fit: cover;
     }
 
@@ -140,8 +148,22 @@ a:visited:hover {
     line-height: 1;
     }
 
-.favicon{
-    width: 25px;
-    height: 25px;
-    border: 0;
-}
+/* id='s below */
+#portfolio-front{
+    padding-top: 15px;
+    /* abbreviated as "p-f-" below */
+    }
+
+#portfolio-ind{
+    margin: auto;
+    /* abbreviated as "p-i-" below */
+    }
+
+#portfolio-i-p-coursedesc{
+    max-width: 110ch;
+    font-size: 8pt;
+    line-height: 2;
+    margin: auto;
+    font-style: italic;
+    color: #D3D3D3;
+    }
