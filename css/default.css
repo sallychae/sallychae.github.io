@@ -4,7 +4,7 @@
 body  {
     font-family: verdana;
     text-align: center;
-    font-size: 10pt;
+    font-size: 8pt;
     }
 
 figcaption  {
@@ -30,6 +30,9 @@ nav {
 
 p {
     text-align: left;
+    max-width: 110ch;
+    line-height: 2;
+    margin: auto;
     }
 
 section {
@@ -81,13 +84,6 @@ a:visited:hover {
     width: 70vw;
     text-align: center;
 
-    }
-
-.portfolio-i-links{
-    max-width: 75ch;
-    font-size: 8pt;
-    line-height: 2.5;
-    margin: auto;
     }
 
 .portfolio-f-thumb{
@@ -148,6 +144,14 @@ a:visited:hover {
     line-height: 1;
     }
 
+.portfolio-i-links{
+    max-width: 75ch;
+    font-size: 8pt;
+    line-height: 2.5;
+    margin: auto;
+    }
+
+
 /* id='s below */
 #portfolio-front{
     padding-top: 15px;
@@ -159,9 +163,21 @@ a:visited:hover {
     /* abbreviated as "p-i-" below */
     }
 
+#portfolio-i-table{
+    border-spacing: 5px;
+    line-height: 2;
+    margin: auto;
+    text-align: left;
+    }
+
+#portfolio-i-p{
+    max-width: 110ch;
+    line-height: 2;
+    margin: auto;
+    }
+
 #portfolio-i-p-coursedesc{
     max-width: 110ch;
-    font-size: 8pt;
     line-height: 2;
     margin: auto;
     font-style: italic;
