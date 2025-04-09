@@ -89,7 +89,8 @@ a:visited:hover {
 
 .portfolio-f-thumb{
     width: 385px;
-    height: auto;
+    height: 255.0625px;
+    /*Use ratio of 640px X 424px --- most of current portfolio thumbnail images set to 640px X 424px before height: 255.0625px was implemented 11:11 PM 4/7/2025*/
     object-fit: cover;
     }
 
