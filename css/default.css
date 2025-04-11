@@ -104,6 +104,7 @@ a:visited:hover {
     height: 255.0625px;
     /*Use ratio of 640px X 424px --- most of current portfolio thumbnail images set to 640px X 424px before height: 255.0625px was implemented 11:11 PM 4/7/2025*/
     border-style: solid;
+    border-width: thin;
     border-color: Gainsboro;
     object-fit: cover;
     }
@@ -145,6 +146,7 @@ a:visited:hover {
     width: 275px;
     height: 155px;
     border-style: solid;
+    border-width: thin;
     border-color: Gainsboro;
     object-fit: cover;
     }

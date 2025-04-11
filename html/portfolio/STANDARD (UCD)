@@ -22,7 +22,7 @@
             <table id="portfolio-i-table">
             <tr>
             <td>Course</td>
-            <td>📔 <a href="[link to syllabus]" target="_blank">AUD [Course #]: [Course Title]</a></td>
+            <td>📄 <a href="[link to syllabus]" target="_blank">AUD [Course #]: [Course Title]</a></td>
             </tr>
             <tr>
             <td>Quarter</td>
@@ -30,11 +30,11 @@
             </tr>
             <tr>
             <td>Type</td>
-            <td>📏 Architectural Design, Architectural Drawings, Model Making</td>
+            <td>📏 Graphic/Product Design, Hand Drawings, Model Making</td>
             </tr>
             <tr>
             <td>Used</td>
-            <td>💻 Adobe Illustrator, Adobe Photoshop, Rhino 3DS</td>
+            <td>💻 Adobe Illustrator, Adobe Photoshop, Adobe InDesign</td>
             </tr>
             <tr>
             <td>Instructor</td>
