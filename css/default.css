@@ -30,6 +30,10 @@ nav {
     background-color: WhiteSmoke;
     }
 
+footer {
+    letter-spacing: .35px;
+    }
+
 p {
     text-align: left;
     max-width: 110ch;
@@ -95,6 +99,15 @@ a:visited:hover {
     object-fit: cover;
     }
 
+.portfolio-f-thumbw{
+    width: 385px;
+    height: 255.0625px;
+    /*Use ratio of 640px X 424px --- most of current portfolio thumbnail images set to 640px X 424px before height: 255.0625px was implemented 11:11 PM 4/7/2025*/
+    border-style: solid;
+    border-color: Gainsboro;
+    object-fit: cover;
+    }
+
 .portfolio-f-cont{
     display: inline-block;
     margin-top: 4px;
@@ -124,6 +137,15 @@ a:visited:hover {
     display: inline-block;
     width: 275px;
     height: 155px;
+    object-fit: cover;
+    }
+
+.portfolio-i-thumbw{
+    display: inline-block;
+    width: 275px;
+    height: 155px;
+    border-style: solid;
+    border-color: Gainsboro;
     object-fit: cover;
     }
 
