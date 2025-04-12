@@ -65,7 +65,7 @@ a:visited:hover {
     text-decoration: none;
     }
 
-/* class='s below */
+/* class='s below (While an ID is specific to a single element, classes can be assigned to multiple elements on a page or throughout the website. They are not unique.)*/
 .favicon{
     width: 25px;
     height: 25px;
@@ -178,8 +178,12 @@ a:visited:hover {
     margin: auto;
     }
 
+.scribe-li{
+    text-align: left;
+    padding-left: 45%;
+    }
 
-/* id='s below */
+/* id='s below (While an ID is specific to a single element, classes can be assigned to multiple elements on a page or throughout the website. They are not unique.)*/
 #portfolio-front{
     padding-top: 15px;
     /* abbreviated as "p-f-" below */

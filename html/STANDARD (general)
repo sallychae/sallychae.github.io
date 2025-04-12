@@ -21,44 +21,38 @@
         <section>
             <table id="portfolio-i-table">
             <tr>
-            <td>Role</td>
-            <td>📄 <a href="https://drive.google.com/file/d/12gAMI-dq9_2yR2zVijbm4ER09m2BWuUG/view?usp=sharing" target="_blank">Emergency Room Scribe</a></td>
+            <td>Course</td>
+            <td>📄 <a href="[link to syllabus]" target="_blank">AUD [Course #]: [Course Title]</a></td>
             </tr>
             <tr>
-            <td>Time</td>
-            <td>🍂+🧊+🌷+🌻 September 2023 - April 2025</td>
+            <td>Quarter</td>
+            <td>🍂/🧊/🌷 Fall/Winter/Spring 20xx</td>
             </tr>
             <tr>
             <td>Type</td>
-            <td>📝 Documentation of Patient Encounters</td>
+            <td>📏 Graphic/Product Design, Hand Drawings, Model Making</td>
             </tr>
             <tr>
             <td>Used</td>
-            <td>💻 Cerner Electronic Health Record (EHR) System</td>
+            <td>💻 Adobe Illustrator, Adobe Photoshop, Adobe InDesign</td>
             </tr>
             <tr>
-            <td>Site</td>
-            <td><a href="https://www.mlkch.org/emergency-care" target="_blank"> Martin Luther King Community Hospital</a> |<a href="https://drive.google.com/file/d/17pcwC0-2yP_DqN9LMHlw14GINiBiNsiM/view?usp=sharing" target="_blank"> Onboarding</a> |<a href="https://www.google.com/maps/place/Martin+Luther+King+Jr.+Community+Hospital+Emergency+Room/@33.9202506,-118.2757121,12.5z/data=!4m6!3m5!1s0x80c2cbb7cae29b37:0xc4e23689c7fef92d!8m2!3d33.9230727!4d-118.2424518!16s%2Fg%2F11c2ltbkqn?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D" target="_blank"> Address</a></td>
+            <td>Instructor</td>
+            <td><a href="[link to professor's firm]" target="_blank"> [Instructor Name (first-initial.last-name)]</a></td>
             </tr>
             </table>
         </section>
         <br><section>
             <div class="portfolio-i-cont">
                 <a href="[insert link]">
-                    <img src="../images/delicate-blue.png" alt="1_Concrete-Root-Cellar" class="portfolio-i-thumb">
-                    <div class="portfolio-i-desc"> Cerner Chart</div>
-                </a>
-            </div>
-            <div class="portfolio-i-cont">
-                <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTEhvO0eolUaVlJbUCJjM2WsajKb_p4uGSQLYv2-uwd9QaetgNGOO0HxOv0Y6dA16EHHwOQFh9xIfjC/pubhtml" target="_blank">
-                    <img src="../images/delicate-blue.png" alt="1_Concrete-Root-Cellar" class="portfolio-i-thumb">
-                    <div class="portfolio-i-desc"> EP Preferences</div>
+                    <img src="../images/portfolio/delicate-blue.png" alt="1_Concrete-Root-Cellar" class="portfolio-i-thumb">
+                    <div class="portfolio-i-desc">① Iterations</div>
                 </a>
             </div>
             <div class="portfolio-i-cont">
                 <a href="[insert link]">
-                    <img src="../images/delicate-blue.png" alt="1_Concrete-Root-Cellar" class="portfolio-i-thumb">
-                    <div class="portfolio-i-desc"> Tracking Sheets</div>
+                    <img src="../images/portfolio/delicate-blue.png" alt="1_Concrete-Root-Cellar" class="portfolio-i-thumb">
+                    <div class="portfolio-i-desc">② Final</div>
                 </a>
             </div>
         </section><br><br>

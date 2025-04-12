@@ -43,6 +43,27 @@
             </table>
         </section>
         <br><section>
+            <div class="scribe-li">
+                <p>Cerner Chart</p>
+                    <ul>
+                      <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYhncNulDp4aisSmkRceUZWgAbsXH5mLDx2uBsjQI0JfgLHqZwmhJdfQP52-mBaq1WI67TnP5yXI8Z/pubhtml" target="_blank">Path</a></li>
+                      <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaSagNchP6d8ExsZa-cg5iFjSjsN5BLNu8_1BoQd7vpm6OBN-R_iQaIoi6lZCVkB5hhlAPtaiaRxj-/pubhtml" target="_blank">EKG</a></li>
+                      <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQupNESgO96ugnB6wmC9TDrI7cjprGUPeocO-c9toMVtxPozdUU90BdprklPVjnumPLncNQzoyIzXL1/pubhtml" target="_blank">Pre-Completed Charts</a></li>
+                    </ul>
+                <p>EP Preferences</p>
+                    <ol type="1">
+                        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0R5F6iBMUxs8EjqCDzYcqXOD1NYMEd9lN6rpM3h9Xsxv9AuQ-FQB4FR1KRCI2JkN40iXmSJ2Y4Mrc/pubhtml" target="_blank">A</a></li>
+                        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNqpx5jjBwPtwRxaqpeFGdigFb7Bi06bs0E37wLyngRo0rF7vNNIlQs--pSAl5xWvZHVvCNXaxs2sR/pubhtml" target="_blank">B</a></li>
+                        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSfHruPC2no8dkynDLJFRB09w9_98X5zAFnpYPdrLZ5uWwWwcbfgP-kv3RyPY0VdbYEGYXeaZSevz8t/pubhtml" target="_blank">B</a></li>
+                        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzMyNYM1z_RSLPrNa-a9Ide9Rdmf6MVfiLX_9QElgHin4baqwGHuicqZhilHGFBfPRTQnBbgRQ-Jjn/pubhtml" target="_blank">C</a></li>
+                        <li><a href="link" target="_blank">name</a></li>
+                    </ol>
+                <p>Tracking Sheets</p>
+                    <ul>
+                        <li><a href="link" target="_blank">name</a></li>
+                        <li><a href="link" target="_blank">name</a></li>
+                    </ul>
+            </div>
             <div class="portfolio-i-cont">
                 <a href="[insert link]">
                     <img src="../images/delicate-blue.png" alt="1_Concrete-Root-Cellar" class="portfolio-i-thumb">
@@ -50,7 +71,7 @@
                 </a>
             </div>
             <div class="portfolio-i-cont">
-                <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTEhvO0eolUaVlJbUCJjM2WsajKb_p4uGSQLYv2-uwd9QaetgNGOO0HxOv0Y6dA16EHHwOQFh9xIfjC/pubhtml" target="_blank">
+                <a href="[insert link]">
                     <img src="../images/delicate-blue.png" alt="1_Concrete-Root-Cellar" class="portfolio-i-thumb">
                     <div class="portfolio-i-desc"> EP Preferences</div>
                 </a>
