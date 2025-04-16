@@ -89,7 +89,14 @@ a:visited:hover {
     height: 90vh;
     width: 70vw;
     text-align: center;
+    }
 
+.mark-chartreuse{
+    background-color: chartreuse;
+    }
+
+.mark-cyan{
+    background-color: cyan;
     }
 
 .portfolio-f-thumb{
