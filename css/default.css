@@ -190,6 +190,24 @@ a:visited:hover {
     padding-left: 45%;
     }
 
+.writing-i-thumb{
+    display: inline-block;
+    width: 175px;
+    height: 55px;
+    object-fit: cover;
+    }
+
+.writing-i-thumbw{
+    display: inline-block;
+    width: 175px;
+    height: 55px;
+    border-style: solid;
+    border-width: thin;
+    border-color: gray;
+    border-radius: 0px; /* overrides "border-radius: 8px" in img{} above!!! */
+    object-fit: cover;
+    }
+
 /* id='s below (While an ID is specific to a single element, classes can be assigned to multiple elements on a page or throughout the website. They are not unique.)*/
 #portfolio-front{
     padding-top: 15px;
