@@ -120,8 +120,8 @@ a:visited:hover {
 
 .portfolio-cont{
     display: inline-block;
-    margin-top: 4px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     border: 0px solid beige;
     }
 
@@ -202,19 +202,6 @@ a:visited:hover {
     }
 
 /* id='s below (While an ID is specific to a single element, classes can be assigned to multiple elements on a page or throughout the website. They are not unique.)*/
-#portfolio-1{
-    margin: auto;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    /* abbreviated as "p-1-" below */
-    }
-
-#portfolio-2{
-    margin: auto;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    /* abbreviated as "p-2-" below */
-    }
 
 #portfolio-table{
     border-spacing: 5px;
