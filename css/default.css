@@ -25,14 +25,16 @@ nav {
     font-size: 8pt;
     letter-spacing: .65px;
     border: .75px dashed lightgray;
-    padding: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin-bottom: 15px;
     background-color: WhiteSmoke;
     }
 
 footer {
     letter-spacing: .35px;
-    padding: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     }
 
 p {
