@@ -26,12 +26,13 @@ nav {
     letter-spacing: .65px;
     border: .75px dashed lightgray;
     padding: 5px;
-    margin-bottom: 35px;
+    margin-bottom: 15px;
     background-color: WhiteSmoke;
     }
 
 footer {
     letter-spacing: .35px;
+    padding: 15px;
     }
 
 p {
@@ -42,6 +43,7 @@ p {
     }
 
 section {
+    padding: 15px;
     }
 
 /* LINKS below */
@@ -116,14 +118,14 @@ a:visited:hover {
     object-fit: cover;
     }
 
-.portfolio-1-cont{
+.portfolio-cont{
     display: inline-block;
     margin-top: 4px;
     padding-bottom: 10px;
     border: 0px solid beige;
     }
 
-.portfolio-1-cont a:hover {
+.portfolio-cont a:hover {
     opacity: 0.4;
 		}
 
@@ -134,11 +136,6 @@ a:visited:hover {
     padding-top: 4px;
     letter-spacing: .62px;
     line-height: 1;
-		}
-
-.portfolio-1-desc:hover {
-    color: gray;
-    text-decoration: none;
 		}
 
 .portfolio-2-thumb{
@@ -157,17 +154,6 @@ a:visited:hover {
     border-color: Gainsboro;
     object-fit: cover;
     }
-
-.portfolio-2-cont{
-    display: inline-block;
-    margin-top: 4px;
-    padding-bottom: 10px;
-    border: 0px solid beige;
-    }
-
-.portfolio-2-cont a:hover {
-    opacity: 0.4;
-		}
 
 .portfolio-2-desc{
     text-align: center;
@@ -217,12 +203,16 @@ a:visited:hover {
 
 /* id='s below (While an ID is specific to a single element, classes can be assigned to multiple elements on a page or throughout the website. They are not unique.)*/
 #portfolio-1{
+    margin: auto;
     padding-top: 15px;
+    padding-bottom: 15px;
     /* abbreviated as "p-1-" below */
     }
 
 #portfolio-2{
     margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
     /* abbreviated as "p-2-" below */
     }
 
