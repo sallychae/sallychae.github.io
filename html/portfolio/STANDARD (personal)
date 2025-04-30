@@ -22,7 +22,7 @@
     </header>
     <main>
         <section>
-            <table id="portfolio-table">
+            <table id="table">
             <tr>
             <td>Course</td>
             <td>📄 <a href="[link to syllabus]" target="_blank">AUD [Course #]: [Course Title]</a></td>
@@ -63,7 +63,7 @@
             <p>[text] <i>[text]</i> <br/><br/>① Iterations ⇢ [text]. <br/>② Final ⇢ [text] <br/><i>[text]</i> <br/>↳ Final Model is 1/4"=1' scale, [text].</p>
         </section>
         <section>
-            <p id="portfolio-2-p-coursedesc">Course Description: "[text] (Source)"</p>
+            <p id="coursedesc">Course Description: "[text] (Source)"</p>
         </section>
     </main>
     <footer>
