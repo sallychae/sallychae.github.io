@@ -85,6 +85,14 @@ a:visited:hover {
     background-color: cyan;
     }
 
+.mark-lawngreen {
+    background-color: lawngreen;
+    }
+
+.mark-greenyellow {
+    background-color: greenyellow;
+    }
+
 .portfolio-1-thumb {
     width: 375px;
     height: 245px;
