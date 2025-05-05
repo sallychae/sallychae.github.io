@@ -85,6 +85,10 @@ a:visited:hover {
     background-color: cyan;
     }
 
+.mark-darkorange {
+    background-color: darkorange;
+    }
+
 .mark-lawngreen {
     background-color: lawngreen;
     }
