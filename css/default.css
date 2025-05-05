@@ -190,6 +190,13 @@ a:visited:hover {
     text-align: left;
     }
 
+#table-2 {
+    border-spacing: 5px;
+    line-height: 2;
+    margin-left: 30%;
+    text-align: left;
+    }
+
 #portfolio-2-p {
     max-width: 110ch;
     line-height: 2;
