@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="author" content="Sally Chae"/>
+    <meta name="description" content="Architecture Design Academic Professional Personal Portfolio"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Sally Chae</title>
+    <link rel="stylesheet" type="text/css" href="../../css/default.css"/>
+    <link rel="icon" type="image/x-icon" href="../../images/favicon.ico"/>
+</head>
+<body>
+    <header>
+        <img src="../../images/banner_parker_medred.png" width="400px" alt="Sally Chae"/>
+        <nav>
+            <a href="../about.html">about</a> &nbsp; &nbsp;
+            <a href="../design.html">design</a> &nbsp; &nbsp;
+            <a href="../architecture.html">architecture</a> &nbsp; &nbsp;
+            <a href="../writing.html">writing</a>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <table id="table">
+            <tr>
+            <td>Course</td>
+            <td>📄 <a href="[link to syllabus]" target="_blank">AUD [Course #]: [Course Title]</a></td>
+            </tr>
+            <tr>
+            <td>Quarter</td>
+            <td>🍂/🧊/🌷 Fall/Winter/Spring 20xx</td>
+            </tr>
+            <tr>
+            <td>Type</td>
+            <td>📏 Graphic/Product Design, Hand Drawings, Model Making</td>
+            </tr>
+            <tr>
+            <td>Used</td>
+            <td>💻 Adobe Illustrator, Adobe Photoshop, Adobe InDesign</td>
+            </tr>
+            <tr>
+            <td>Instructor</td>
+            <td><a href="[link to professor's firm]" target="_blank"> [Instructor Name (first-initial.last-name)]</a></td>
+            </tr>
+            </table>
+        </section>
+        <section>
+            <div id="anki">
+                <iframe src="" id="anki-iframe" style="height: 100vh; width:100%;" seamless="seamless"></iframe>
+            </div>
+        </section>
+        <section>
+            <p>[text] <i>[text]</i> <br/><br/>① Iterations ⇢ [text]. <br/>② Final ⇢ [text] <br/><i>[text]</i> <br/>↳ Final Model is 1/4"=1' scale, [text].</p>
+        </section>
+        <section>
+            <p id="coursedesc">Course Description: "[text] (Source)"</p>
+        </section>
+    </main>
+    <footer>
+        <a href="../portfolio.html"><img src="../../images/favicon.gif" class="favicon"/><div><br/>© Sally Chae 2025</div></a>
+    </footer>
+</html>
