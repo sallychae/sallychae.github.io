@@ -16,74 +16,34 @@
             <a href="about.html">about</a> &nbsp; &nbsp;
             <a href="design.html">design</a> &nbsp; &nbsp;
             <a href="architecture.html">architecture</a> &nbsp; &nbsp;
+            <a href="personal.html">personal</a> &nbsp; &nbsp;
             <a href="writing.html">writing</a>
         </nav>
     </header>
     <main>
         <section>
-            <table id="table">
-            <tr>
-            <td>Role</td>
-            <td>📄 <a href="https://drive.google.com/file/d/12gAMI-dq9_2yR2zVijbm4ER09m2BWuUG/view?usp=sharing" target="_blank">Emergency Room Scribe</a></td>
-            </tr>
-            <tr>
-            <td>Time</td>
-            <td>🍂+🧊+🌷+🌻 September 2023 - April 2025</td>
-            </tr>
-            <tr>
-            <td>Type</td>
-            <td>📝 Documentation of Patient Encounters</td>
-            </tr>
-            <tr>
-            <td>Used</td>
-            <td>💻 Cerner Electronic Health Record (EHR) System</td>
-            </tr>
-            <tr>
-            <td>Site</td>
-            <td><a href="https://www.mlkch.org/emergency-care" target="_blank"> Martin Luther King Community Hospital</a> |<a href="https://drive.google.com/file/d/17pcwC0-2yP_DqN9LMHlw14GINiBiNsiM/view?usp=sharing" target="_blank"> Onboarding</a> |<a href="https://www.google.com/maps/place/Martin+Luther+King+Jr.+Community+Hospital+Emergency+Room/@33.9202506,-118.2757121,12.5z/data=!4m6!3m5!1s0x80c2cbb7cae29b37:0xc4e23689c7fef92d!8m2!3d33.9230727!4d-118.2424518!16s%2Fg%2F11c2ltbkqn?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D" target="_blank"> Address</a></td>
-            </tr>
-            </table>
-        </section>
-        <br/><section>
-            <div class="scribe-li">
-                <p>Cerner Chart</p>
-                    <ul>
-                      <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYhncNulDp4aisSmkRceUZWgAbsXH5mLDx2uBsjQI0JfgLHqZwmhJdfQP52-mBaq1WI67TnP5yXI8Z/pubhtml" target="_blank">Path</a></li>
-                      <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQaSagNchP6d8ExsZa-cg5iFjSjsN5BLNu8_1BoQd7vpm6OBN-R_iQaIoi6lZCVkB5hhlAPtaiaRxj-/pubhtml" target="_blank">EKG</a></li>
-                      <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQupNESgO96ugnB6wmC9TDrI7cjprGUPeocO-c9toMVtxPozdUU90BdprklPVjnumPLncNQzoyIzXL1/pubhtml" target="_blank">Pre-Completed Charts</a></li>
-                    </ul>
-                <p>EP Preferences</p>
-                    <ol type="1">
-                        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0R5F6iBMUxs8EjqCDzYcqXOD1NYMEd9lN6rpM3h9Xsxv9AuQ-FQB4FR1KRCI2JkN40iXmSJ2Y4Mrc/pubhtml" target="_blank">A</a></li>
-                        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNqpx5jjBwPtwRxaqpeFGdigFb7Bi06bs0E37wLyngRo0rF7vNNIlQs--pSAl5xWvZHVvCNXaxs2sR/pubhtml" target="_blank">B</a></li>
-                        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSfHruPC2no8dkynDLJFRB09w9_98X5zAFnpYPdrLZ5uWwWwcbfgP-kv3RyPY0VdbYEGYXeaZSevz8t/pubhtml" target="_blank">B</a></li>
-                        <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzMyNYM1z_RSLPrNa-a9Ide9Rdmf6MVfiLX_9QElgHin4baqwGHuicqZhilHGFBfPRTQnBbgRQ-Jjn/pubhtml" target="_blank">C</a></li>
-                        <li><a href="link" target="_blank">name</a></li>
-                    </ol>
-                <p>Tracking Sheets</p>
-                    <ul>
-                        <li><a href="link" target="_blank">name</a></li>
-                        <li><a href="link" target="_blank">name</a></li>
-                    </ul>
-            </div>
+
             <div class="portfolio-cont">
                 <a href="[insert link]">
                     <img src="../images/delicate-blue.png" alt="1_Concrete-Root-Cellar" class="portfolio-2-thumb"/>
                     <div class="portfolio-2-desc"> Cerner Chart</div>
                 </a>
             </div>
+
             <div class="portfolio-cont">
                 <a href="[insert link]">
                     <img src="../images/delicate-blue.png" alt="1_Concrete-Root-Cellar" class="portfolio-2-thumb"/>
                     <div class="portfolio-2-desc"> EP Preferences</div>
                 </a>
             </div>
+
             <div class="portfolio-cont">
                 <a href="[insert link]">
                     <img src="../images/delicate-blue.png" alt="1_Concrete-Root-Cellar" class="portfolio-2-thumb"/>
                     <div class="portfolio-2-desc"> Tracking Sheets</div>
                 </a>
             </div>
+
         </section>
         <p>
             [text] <i>[text]</i> <br/><br/>① Iterations ⇢ [text]. <br/>② Final ⇢ [text] <br/><i>[text]</i> <br/>↳ Final Model is 1/4"=1' scale, [text].
