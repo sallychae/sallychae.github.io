@@ -16,8 +16,8 @@
             <a href="../about.html">about</a> &nbsp; &nbsp;
             <a href="../design.html">design</a> &nbsp; &nbsp;
             <a href="../architecture.html">architecture</a> &nbsp; &nbsp;
-            <a href="../pre-med.html">01</a> &nbsp; &nbsp;
-            <a href="../med.html">02</a> &nbsp; &nbsp;
+            <a href="../pre-med.html">pre-med</a> &nbsp; &nbsp;
+            <a href="../oms-1.html">d.o.</a> &nbsp; &nbsp;
             <a href="../personal.html">∞</a>
         </nav>
     </header>
@@ -50,7 +50,7 @@
             <div id="anki">
                 <iframe src="" id="anki-iframe" style="height: 100vh; width:100%;" seamless="seamless"></iframe>
             </div>
-        </section>
+        </section>oms-1
         <section>
             <p>[text] <i>[text]</i> <br/><br/>① Iterations ⇢ [text]. <br/>② Final ⇢ [text] <br/><i>[text]</i> <br/>↳ Final Model is 1/4"=1' scale, [text].</p>
         </section>
