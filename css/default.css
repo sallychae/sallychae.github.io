@@ -234,6 +234,36 @@ a:visited:hover {
     border: none;
     }
 
+#coursedesc {
+    max-width: 110ch;
+    line-height: 2;
+    margin: auto;
+    font-style: italic;
+    color: #D3D3D3;
+    }
+
+#desc {
+    max-width: 110ch;
+    line-height: 2;
+    margin: auto;
+    font-style: italic;
+    color: #D3D3D3;
+    text-align: center;
+    }
+
+#desc-2 {
+    max-width: 110ch;
+    line-height: 2;
+    margin: auto;
+    text-align: center;
+    }
+
+#portfolio-2-p {
+    max-width: 110ch;
+    line-height: 2;
+    margin: auto;
+    }
+
 #table {
     border-spacing: 5px;
     line-height: 2;
@@ -246,18 +276,4 @@ a:visited:hover {
     line-height: 1.25;
     margin: auto;
     text-align: left;
-    }
-
-#portfolio-2-p {
-    max-width: 110ch;
-    line-height: 2;
-    margin: auto;
-    }
-
-#coursedesc {
-    max-width: 110ch;
-    line-height: 2;
-    margin: auto;
-    font-style: italic;
-    color: #D3D3D3;
     }
